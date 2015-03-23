@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Twitter</string>
+	<string name="label">Enter your search criteria for Twitter</string>
+	<string name="button">Search</string>
+	<string name="hint">Search criteria</string>
+	<string name="downloading">Downloading from Twitter</string>
+	<string name="progress">Please wait whilst Tweets are downloaded</string>
+</resources>
