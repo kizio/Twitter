@@ -7,4 +7,5 @@ This app was written as a piece of sample code for a couple of articles I put to
 These were subsequently published on the Kizio website at:
 
 http://www.kizio.com/2012/05/android-http-tutorial.html
+
 http://www.kizio.com/2012/05/android-json-tutorial.html
